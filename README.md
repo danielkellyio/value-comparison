@@ -8,7 +8,7 @@ Value comparison is simple, why have a library for it? My use case is to take an
    * provides non-coder friendly terminology
 2. Having the ability to pass "any" or "all" (once again from user input comma separated seemed a no-brainer)
 3. Full test coverage for confidence that it'll works every time 
-4. This makes ValueComparison a library perfectly fit to handle the input of a user interface like this:
+4. This makes ValueComparison perfectly fit to handle the input of a user interface like this:
 ![screenshot](screenshot.png)
 # Installation
 ```
