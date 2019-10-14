@@ -12,7 +12,7 @@ Value comparison is simple, why have a library for it? My use case is to take an
 ![screenshot](screenshot.png)
 # Installation
 ```
-composer install danielkellyio/value-comparison
+composer require danielkellyio/value-comparison
 ```
 
 # Examples
