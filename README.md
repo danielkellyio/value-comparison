@@ -10,6 +10,10 @@ Value comparison is simple, why have a library for it? My use case is to take an
 3. Full test coverage for confidence that it'll works every time 
 4. This makes ValueComparison a library perfectly fit to handle the input of a user interface like this:
 ![screenshot](screenshot.png)
+# Installation
+```
+composer install danielkellyio/value-comparison
+```
 
 # Examples
 ```
