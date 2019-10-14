@@ -10,7 +10,6 @@
             "email": "me@danielkelly.io"
         }
     ],
-    "type": "project",
     "require": {
 		"php": ">=7.1"
     },
