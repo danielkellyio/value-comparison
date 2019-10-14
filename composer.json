@@ -1,0 +1,25 @@
+{
+    "name": "danielkellyio/value-comparison",
+    "description": "Compare a value to another value in order to perform advanced logic on user input (comparisons such as greater than, starts with, contains and with any or all to compare against multiple) ",
+    "version" : "1.0.0",
+    "keywords": ["compare values", "logic on values", "logic"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Kelly",
+            "email": "me@danielkelly.io"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=7.1"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "DanielKellyIO\\ValueComparison\\": "src/"
+        }
+    }
+}
